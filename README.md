@@ -68,3 +68,9 @@ of the box lowend GPU compatibility.  <br/>
 <br/><br/>
 
 ## SCREENSHOTS
+
+<img width="1914" height="986" alt="chatai-assistant-voice-vision-opensource1" src="https://github.com/user-attachments/assets/3b1553e1-05dd-4bd2-9254-51c7a7413085" />
+<img width="1914" height="986" alt="chatai-assistant-voice-vision-opensource2" src="https://github.com/user-attachments/assets/36c3af8e-4ed6-4727-902d-d5503a574194" />
+<img width="1914" height="986" alt="chatai-assistant-voice-vision-opensource3" src="https://github.com/user-attachments/assets/3fabc3e7-134f-425a-a4cb-63616516a29a" />
+<img width="1914" height="986" alt="chatai-assistant-voice-vision-opensource4" src="https://github.com/user-attachments/assets/eca01309-037a-47e5-ad69-9846dcbaa813" />
+
