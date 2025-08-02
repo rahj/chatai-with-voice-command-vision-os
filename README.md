@@ -63,7 +63,8 @@ OPENAI_API_KEY="keys-here" <br/><br/>
 4. Adjust the variables for the Chat AI Bot name and the prompt according to your needs, however the prompt i made is more than enough. <br/> 
 5. Adjust the LLM model and TTS Engine accordingly. For the TTS, i currently used the RealtimeTTS KokoroEngine for the out
 of the box lowend GPU compatibility.  <br/>
-6. Enjoy! 
+6. Say the wake word "Hey" followed by your message.
+7. Enjoy! 
 <br/><br/>
 
 ## SCREENSHOTS

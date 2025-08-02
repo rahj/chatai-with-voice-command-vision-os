@@ -301,7 +301,6 @@ def extract_prompt(transcribed_audio_text, wake_word):
     
     if matched:
         prompt = matched.group(1).strip()
-        print("prompt inside matched: " + prompt)
         return prompt
     else:
         return None 
@@ -334,13 +333,13 @@ def callback(recognizer, audio):
             print('capturing desktop screenshot')
             capture_desktop_screenshot()
             #visual_context = vision_prompt2(prompt=prompt, img_path=captured_desktop_screenshot)
-            visual_context = vision_prompt2(prompt=prompt, img_path=sc_desktop_path)
+            visual_context = vision_prompt2(prompt=clean_prompt, img_path=sc_desktop_path)
 
         elif 'capture webcam' in call:
             print('capturing webcam screenshot')
             capture_webcam_screenshot()
             #visual_context = vision_prompt2(prompt=prompt, img_path=captured_webcam_screenshot)
-            visual_context = vision_prompt2(prompt=prompt, img_path=sc_webcam_path)
+            visual_context = vision_prompt2(prompt=clean_prompt, img_path=sc_webcam_path)
 
             print('visual_context')
             print(visual_context)
